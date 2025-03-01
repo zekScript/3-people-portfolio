@@ -18,7 +18,7 @@ const Video: React.FC = () => {
           loop
           style={{ pointerEvents: "none" }}
         >
-          {/* <source src="backgroundVid.mp4" /> */}
+          <source src="backgroundVid.mp4" />
         </video>
       </div>
     </div>
